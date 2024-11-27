@@ -4,7 +4,7 @@
 This project aims to analyze the Superstore’s data to identify opportunities for increasing profitability and reducing operational losses. By examining profit centers, loss-makers, advertising potential, and return rates, this analysis provides data-driven insights to guide the store's strategic decisions.
 
 ## Dataset
-The analysis is based on the **Superstore.xls** dataset, containing detailed information on orders, returns, product categories, shipping modes, and regions. Calculated fields and joins were applied to generate comprehensive insights.
+The analysis is based on the **Superstore.xls** dataset, containing detailed information on orders, returns, product categories, shipping modes, and regions. Calculated fields and joins were applied to generate comprehensive insights. The analysis is based on the Superstore.xls dataset, which contains detailed information on orders, returns, product categories, shipping modes, and regions. Note: The original Tableau workbook file used for visualizations became corrupted, and therefore, some visualizations may need to be reconstructed if required.
 
 ## Introduction
 The Superstore, facing potential bankruptcy, requires a thorough analysis to enhance profitability and reduce losses. This project focuses on evaluating high-profit products, identifying underperforming products, and optimizing advertising strategies to maximize return on ad spend (ROAS).
